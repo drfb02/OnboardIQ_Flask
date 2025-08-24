@@ -27,7 +27,7 @@ Then open [http://127.0.0.1:5000](http://127.0.0.1:5000)
 - Member: `alice@example.com` / `password`
 
 ---
-
+**This project is for educational and portfolio purposes only.**
 ---
 
 ## 📄 Contenuto LICENSE (MIT)
@@ -53,7 +53,7 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+SOFTWARE. 
 ---
 
-**This project is for educational and portfolio purposes only.**
+
