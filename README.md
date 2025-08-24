@@ -30,8 +30,6 @@ Then open [http://127.0.0.1:5000](http://127.0.0.1:5000)
 **This project is for educational and portfolio purposes only.**
 ---
 
-![OnboardIQ Badge](images/onboard.png)
-
 
 
 ## 📄 Contenuto LICENSE (MIT)
