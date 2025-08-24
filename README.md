@@ -6,6 +6,10 @@ A modular onboarding & training portal for technical teams, built with **Python 
 > The model is trained on **synthetic data** and **must not** be used to make real financial decisions.
 > No real personal data is included.
 
+<p align="center">
+  <img src="onboard.png" alt="OnboardIQ Badge" width="600">
+</p>
+
 ## Features
 - Session-based login with Flask-Login
 - Onboarding checklists with due dates
