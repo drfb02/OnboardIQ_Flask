@@ -1,0 +1,5 @@
+{% extends "base.html" %}{% block content %}
+<h1 class="h4">Welcome {{ user.name }}</h1>
+<p>Your role: {{ user.role }}</p>
+<a class="btn btn-outline-danger" href="{{ url_for('logout') }}">Logout</a>
+{% endblock %}
