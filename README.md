@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="onboard.png" alt="OnboardIQ Badge" width="600">
+</p>
+
+
 # OnboardIQ – Smart Onboarding Portal (Flask + SQLite Demo)
 A modular onboarding & training portal for technical teams, built with **Python Flask** and **SQLite**.
 
@@ -5,10 +10,6 @@ A modular onboarding & training portal for technical teams, built with **Python 
 > This repository is an educational **demo** for end-to-end ML (training + serving).
 > The model is trained on **synthetic data** and **must not** be used to make real financial decisions.
 > No real personal data is included.
-
-<p align="center">
-  <img src="onboard.png" alt="OnboardIQ Badge" width="600">
-</p>
 
 ## Features
 - Session-based login with Flask-Login
